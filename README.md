@@ -1,6 +1,7 @@
 
-#Praticando React
+# Praticando React
 Neste projeto, desenvolvo um front-end para consumir uma api local. 
+Inicialmente, o consumo é a busca de dados da api, listando-os, paginando-os e selecionando por id. 
 
 
 ## Available Scripts
